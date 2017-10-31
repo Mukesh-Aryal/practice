@@ -1,0 +1,36 @@
+table,
+th,
+tr{
+	background-color: #4dff4d;
+	border: 1px solid #4dff4d;
+	width: 800px;
+	height: 40px;
+	color: white;
+}
+h1{
+	color: teal;
+	font-family: Arial;
+	font-size: 60px;
+}
+a{
+	color: white;
+	font-family: Arial;
+}
+h2{
+	color: white;
+	font-family: calibri;
+	font-size: 50px;
+}
+h4{
+	color: white;
+	font-family: calibri;
+	font-size: 25px;
+}
+h3{
+	color: white;
+	font-family: calibri;
+	font-size: 25px;
+}
+h5{
+	color: white;
+}
