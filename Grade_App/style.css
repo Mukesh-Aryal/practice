@@ -1,0 +1,86 @@
+h1{
+    font-family: cursive;
+    font-size: 60px;
+    color: white;
+    background-color: aqua;
+}
+#tabMenu{
+    background-color: gray;
+    float: left;
+    width: 140px;
+    height: 210px;
+    display: none;
+}
+#expandButton{
+    background-color: green;
+    border-radius: 50px;
+    border: 1px solid aqua;
+}
+#expandButton:hover{
+    background-color: lawngreen;
+}
+#clearScreen{
+    background-color: aqua;
+}
+#clearScreen:hover{
+    background-color: gray;
+}
+#about{
+    background-color: aqua;
+}
+#about:hover{
+    background-color: gray;
+}
+#printButton{
+    background-color: aqua;
+    border: 1px solid red;
+    border-radius: 50px;
+}
+#printButton:hover{
+    background-color: bisque;
+}
+#inputArea{
+    background-color: gray;
+    float: right;
+    width: 260px;
+    height: 105px;
+    font-size: 7px;
+    font-family: cursive;
+    color: red;  
+}
+#inputText:hover{
+    font-size: 15px;
+}
+#numOfStudents{
+    height: 30px;
+    width: 180px;
+}
+#submit{
+    height: 40px;
+    width: 80px;
+    background-color: gray;
+    border: 1px solid gray;
+}
+#submitimg:hover{
+    height: 40px;
+    width: 80px;
+}
+#workingSection{
+    width: auto;
+}
+th{
+    text-align: left;
+    width: 290px;
+}
+table{
+    border: 1px solid aqua;
+    background-color: aqua;
+    width: 500px;
+}
+#calculateGrade{
+    background-color: black;
+    border-radius: 50px;
+}
+#calculateGrade:hover{
+    background-color: aqua;
+}
