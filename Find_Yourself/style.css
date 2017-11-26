@@ -1,0 +1,81 @@
+
+h1{
+    background-color: chocolate;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    text-decoration-style: dashed;
+    float: inherit;
+    font-size: 80px;
+    padding: 2px 2px;
+    border-spacing: 1px;
+}
+h1:hover{
+    color: cornflowerblue;
+    background-color: darkcyan;
+}
+h2{
+    font-family: fantasy;
+    font-size: 40px;
+    color: blueviolet;
+    background-color: chocolate;
+    text-align: center;
+    padding: 2px 2px;
+}
+h3{
+    color: white;
+    font-family: cursive;
+}
+h5{
+    color: white;
+}
+h5:hover{
+    font-size: 15px;
+    font-family: cursive;
+}
+#textArea{
+    margin: 0px;
+    float: left;
+    background-color: aqua;
+    border-radius: 50px;
+    height: 350px;
+    padding: 10px 5px;
+}
+#textArea:hover{
+    background-color: chartreuse;
+}
+#aboutUser{
+    resize: both;
+}
+input{
+    height: 40px;
+    width: 200px;
+    border-bottom-color: aqua;
+    border-top-color: chartreuse;
+    border-right-color: crimson;
+    border-left-color: darkorange;
+    float: left;
+    text-align: center;
+    border-radius: 50px;
+    background-color: cornflowerblue;
+}
+textarea{
+    border-radius: 10px;
+    width: 200px;
+    height: 60px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    border: 1px solid aqua;
+    background-color: antiquewhite;
+    border-radius: 80px;
+    float: right;
+}
+input:hover{
+    background-color: white;
+}
+
+
+
+
