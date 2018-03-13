@@ -1,0 +1,43 @@
+h1{
+    color: aqua;
+    background-position: center;
+    background-color: grey;
+}
+#pull-down-button{
+   height: auto;
+   width: auto;
+    background-color: grey;
+}
+#tabMenu th button{
+    background-color: grey;
+    color: white;;
+    font-family: fantasy;
+    width: 60px;
+    font-size: 13.25px;
+    text-align: left;
+    height: 80px;
+}
+#footer{
+    height: 60px;
+    display: none;
+}
+h2{
+    font-size: 13px;
+    background-color: mediumaquamarine;
+    color: greenyellow;
+    font-family: cursive;
+    text-align: left;
+    width: 200px;
+    float: right;
+}
+#submit{
+    background-color: white;
+    border-radius: 50px;
+}
+#num_of_students{
+    border-bottom-color: aqua;
+    border-top-color: chartreuse;
+    border-left-color: crimson;
+    border-right-color: darkgoldenrod;
+    color: purple;
+}
